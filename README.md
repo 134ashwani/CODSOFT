@@ -20,4 +20,4 @@ The Aim of this repository is to perfom 3 tasks or projects of data science give
 
 
 ## Dataset
-for every tasks i have used difffrent datasets. it is also given in task file.
+For every tasks i have used difffrent datasets. it is also given in task file.
