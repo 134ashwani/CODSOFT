@@ -16,7 +16,7 @@ The Aim of this repository is to perfom 3 tasks or projects of data science give
 •	Matplotlib
 •	Seaborn
 •	Scikit_learn 
-etc....
+  ......etc
 
 
 ## Dataset
