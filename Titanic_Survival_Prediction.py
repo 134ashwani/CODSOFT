@@ -21,7 +21,7 @@ log =LogisticRegression(random_state=0)
 log.fit(a_train,b_train)
 
 
-# Model Prediction
+# Predicting The Model
 
 pred = print(log.predict(a_test))
 print(b_test)
